@@ -1,0 +1,127 @@
+.fish-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.logo {
+    width: 70px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+body {
+    background-color: goldenrod;
+}
+
+.above {
+    padding: 15px;
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+
+.head-line {
+    margin: auto;
+    text-align: center;
+    font-size: 60px;
+    color: darkblue
+}
+
+.body {
+    display: flex;
+}
+
+.main {
+    margin: 5px;
+    padding: 20px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: column;
+    display: flex;
+}
+
+.aside {
+    flex-wrap: wrap;
+    flex-direction: column;
+    display: flex;
+}
+
+.aside-header {
+    margin: 100px;
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.tips {
+    width: 100%;
+    margin: 0px 0xpx;
+    font-size: 15px;
+}
+
+.article-header {
+    text-align: center;
+    font-size: 40px;
+    color: greenyellow;
+}
+
+.article-header2 {
+    text-align: center;
+    font-size: 40px;
+    color: forestgreen;
+}
+
+.article-heading {
+    justify-content: space-evenly;
+    font-size: 20px;
+    flex-direction: row;
+    display: flex;
+}
+
+.art-head-size {
+    flex-wrap: wrap;
+    width: 60em;
+}
+
+.fish-list {
+    padding: 20px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.fish {
+    text-align: center;
+    font-size: 35px;
+}
+
+.fish2 {
+    font-size: 50px;
+    color: aquamarine;
+}
+
+.quotes {
+    color: red;
+    font-size: 1.2em;
+}
+
+.fish3 {
+    color: purple;
+}
+
+.fish-list {
+    display: flex;
+    flex: row;
+}
+
+.aside-header3 {
+    color: brown;
+}
+
+.fish-section {
+    font-family: cursive;
+}
+
+.tips {
+    font-family: cursive;
+}
